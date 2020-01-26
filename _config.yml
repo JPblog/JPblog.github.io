@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   JP
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,25 +37,25 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              cjp3118005883@gmail.com
+#twitter:            username
+#facebook:           username
+github-url:         Nova-cjp
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:             2048459065
 #flickr:            username
 #codepen:           username
 #keybase:           username
