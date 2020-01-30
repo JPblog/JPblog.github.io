@@ -6,8 +6,6 @@ date: 2020-01-30
 comments: false
 ---
 
-<center>万物皆有裂痕，那是光进来的地方。</center>
-
 Hi，我是纪鹏(JP)，广东工业大学软件工程本科在读。
 
 近来在做一些以[RoboMaster](https://baike.baidu.com/item/RoboMaster/22243330?fr=aladdin)机器视觉辅助系统开发为主的Computer Vision方面的项目，以后偏向于向安卓开发方向发展。
