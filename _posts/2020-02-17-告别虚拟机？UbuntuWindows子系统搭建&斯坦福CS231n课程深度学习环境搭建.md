@@ -129,7 +129,7 @@ source /etc/profile
 
 下载[vcxsv](https://sourceforge.net/projects/vcxsrv/)（建议在翻墙环境中下载），点击download下载安装好就可以了，然后下载[脚本包](https://github.com/Nova-cjp/Ubuntu-script)，双击bat就可以打开xfce桌面了（不要关闭后面的Bash终端），关闭也很简单，只需要点击图形界面右上角的x即可（不要直接关闭后面的Bash终端）
 
-![img](https://img-blog.csdn.net/20181020204037523?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L05vdmFTbGl2ZXI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![img](../assets/img/1.png)
 
 子系统在Windows下的目录
 
@@ -144,7 +144,7 @@ C:\Users\SilverSliver\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindo
 
 首先一定要添加上面提供的环境变量，其次下载刚才提供的文件夹内所提供的剩余两个文件，双击UbuntuMul.bat，在弹出的Bash窗口输入对应指令即可启动对应的Linux程序。效果如图（打开了Linux的Thunar文件管理器和gnome-terminal）：
 
-![img](https://img-blog.csdn.net/20181020204721605?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L05vdmFTbGl2ZXI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![img](../assets/img/2.png)
 
 最终如果桌面出现任何显示上的问题，请打开Ubuntu应用，输入并执行`rm  -rf ~/.config/xfce4`和`rm -rf ~/.cache/sessions`
 
