@@ -133,7 +133,7 @@ source /etc/profile
 
 子系统在Windows下的目录
 
-这里以Ubuntu为例，中间“CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc”可能不一致，只需找到相应发行版的文件夹即可，不建议对这个文件目录进行写操作，容易出现权限问题
+这里以Ubuntu为例，中间 “CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc” 可能不一致，只需找到相应发行版的文件夹即可，不建议对这个文件目录进行写操作，容易出现权限问题
 
 ```
 C:\Users\SilverSliver\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs
@@ -187,7 +187,12 @@ C:\Users\SilverSliver\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindo
 bash中进入assignment作业包的存放目录，方法如2.
 
 1. 在win10环境下访问Ubuntu文件系统的home目录：
-   `C:\Users\xxx\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\xxx`
+
+   ```
+   C:\Users\xxx\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\xxx
+   ```
+
+   
 
 
 2. 在Ubuntu系统下访问win10的home目录：
