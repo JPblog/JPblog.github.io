@@ -259,7 +259,8 @@ void Twc::ListFiles(string path,string mode){//递归处理目录下符合条件
         if (file.attrib & _A_SUBDIR)
         {
             //判断是否为"."当前目录，".."上一层目录
-            if ((strcmp(file.name, ".") != 0) && (strcmp(file.name, "..") != 0))
+            if ((strcmp(file.name, ".") != 0) \
+            && (strcmp(file.name, "..") != 0))
             {
                 string newPath = path +"\\" + file.name;
                 ListFiles(newPath,mode);
